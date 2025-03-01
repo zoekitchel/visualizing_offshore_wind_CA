@@ -1,0 +1,418 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: Guy R. Cochrane
+        Originator: Linda A. Kuhnz
+        Originator: Peter Dartnell
+        Originator: Lisa Gilbane
+        Originator: Maureen A. Walton
+        Publication_Date: 20220108
+        Title: CMECS substrate, geoform, and biotic component polygons derived from multibeam echosounder data and underwater video observations collected offshore of south-central California in support of the Bureau of Ocean Energy Management Cal DIG I, offshore alternative energy project
+        Geospatial_Data_Presentation_Form: polygon shapefile
+        Series_Information:
+          Series_Name: data release
+          Issue_Identification: DOI:10.5066/P9QQZ27U
+        Publication_Information:
+          Publication_Place: Pacific Coastal and Marine Science Center, Santa Cruz, CA
+          Publisher: U.S. Geological Survey
+        Online_Linkage: https://doi.org/10.5066/P9QQZ27U
+        Larger_Work_Citation:
+          Citation_Information:
+            Originator: Guy R. Cochrane
+            Originator: Linda A. Kuhnz
+            Originator: Peter Dartnell
+            Originator: Lisa Gilbane
+            Originator: Maureen A. Walton
+            Publication_Date: 2022
+            Title: Multibeam echosounder, video observation, and derived benthic habitat data offshore of south-central California in support of the Bureau of Ocean Energy Management Cal DIG I, offshore alternative energy project
+            Series_Information:
+              Series_Name: data release
+              Issue_Identification: DOI:10.5066/P9QQZ27U
+            Publication_Information:
+              Publication_Place: Pacific Coastal and Marine Science Center, Santa Cruz, CA
+              Publisher: U.S. Geological Survey
+            Online_Linkage: https://doi.org/10.5066/P9QQZ27U
+    Description:
+      Abstract: These metadata describe Coastal and Marine Ecological Classification Standard (CMECS; Federal Geographic Data Committee, 2012) attributed polygons derived from multibeam echosounder acoustic bathymetry and backscatter intensity data, and from underwater video collected offshore of Morro Bay, California from 2016 to 2020. The polygons have CMECS substrate, geoform and biotic component attributes. Most of the data were collected in support of the U.S. Geological Survey (USGS)/Bureau of Ocean Energy Management (BOEM) California Deepwater Investigations and Groundtruthing I (Cal DIG I) project through collaborations with the National Oceanic and Atmospheric Administration (NOAA) and the Monterey Bay Aquarium Research Institute (MBARI).
+      Purpose: This project was conducted to map surficial geology and benthic habitat as part of the USGS/BOEM Interagency Agreement M17PG0021 titled California Deepwater Investigations and Ground-truthing I (Cal DIG I). These data are intended to provide regional surficial geology and benthic habitat information in an area of interest for offshore wind energy development. These data are also intended for science researchers, students, policy makers, and the public. These data can be used in GIS and statistical analysis projects, or other software to spatially identify geomorphologic biota, surficial lithology, and biotopes in the study area. Field activities were augmented through the Expanding Pacific Research and Exploration of Submerged Systems (EXPRESS) collaboration (https://www.usgs.gov/centers/pcmsc/science/express-expanding-pacific-research-and-exploration-submerged-systems?qt-science_center_objects=0#qt-science_center_objects).
+      Supplemental_Information:
+        Additional information about the USGS field activities from which some of these data were derived is available online at:
+
+        https://cmgds.marine.usgs.gov/fan_info.php?fan=2018-641-FA
+        https://cmgds.marine.usgs.gov/fan_info.php?fan=2019-642-FA
+
+        These data were collected for the U.S. Geological Survey (USGS)/Bureau of Ocean Energy Management (BOEM) California Deepwater Investigations and Groundtruthing I (Cal DIG I) project (Interagency Agreement M17PG00021).
+
+        Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+
+        Although this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in Esri format, this metadata file may include some Esri-specific terminology.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 2016
+          Ending_Date: 2020
+      Currentness_Reference: ground condition at time data were collected.
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: None planned
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -122.000031
+        East_Bounding_Coordinate: -120.789226
+        North_Bounding_Coordinate: 35.896673
+        South_Bounding_Coordinate: 34.522442
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: USGS Metadata Identifier
+        Theme_Keyword: USGS:da665bcf-00aa-49aa-a5ad-78ccbe4ba900
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: geoscientificInformation
+      Theme:
+        Theme_Keyword_Thesaurus: Data Categories for Marine Planning
+        Theme_Keyword: Physical Habitats and Geomorphology
+        Theme_Keyword: Wind Energy Production
+        Theme_Keyword: Habitat
+        Theme_Keyword: Invertebrates
+        Theme_Keyword: Biodiversity
+      Theme:
+        Theme_Keyword_Thesaurus: USGS Thesaurus
+        Theme_Keyword: sea-floor characteristics
+      Theme:
+        Theme_Keyword_Thesaurus: Marine Realms Information Bank (MRIB) keywords
+        Theme_Keyword: seabed
+        Theme_Keyword: field observation
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: U.S. Geological Survey
+        Theme_Keyword: USGS
+        Theme_Keyword: Coastal and Marine Hazards and Resources Program
+        Theme_Keyword: CMHRP
+        Theme_Keyword: Pacific Coastal and Marine Science Center
+        Theme_Keyword: PCMSC
+        Theme_Keyword: Expanding Pacific Research and Exploration of Submerged Systems
+      Place:
+        Place_Keyword_Thesaurus: Geographic Names Information System (GNIS)
+        Place_Keyword: State of California
+        Place_Keyword: Morro Bay
+    Access_Constraints: None
+    Use_Constraints: USGS-authored or produced data and information are in the public domain from the U.S. Government and are freely redistributable with proper metadata and source attribution. Please recognize and acknowledge the U.S. Geological Survey and the Bureau of Ocean Energy Management as the originator(s) of the dataset and in products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey, Pacific Coastal and Marine Science Center
+          Contact_Person: PCMSC Science Data Coordinator
+        Contact_Address:
+          Address_Type: mailing and physical
+          Address: 2885 Mission Street
+          City: Santa Cruz
+          State_or_Province: CA
+          Postal_Code: 95060
+        Contact_Voice_Telephone: 831-427-4747
+        Contact_Electronic_Mail_Address: pcmsc_data@usgs.gov
+    Browse_Graphic:
+      Browse_Graphic_File_Name: Cal_DIG_I_CMECS.jpeg
+      Browse_Graphic_File_Description: Quick view of Cal DIG I CMECS biotopes
+      Browse_Graphic_File_Type: JPEG
+    Native_Data_Set_Environment: ArcGIS 10.7.1, Windows 10.
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report: The attributes found in this dataset are from the Coastal and Marine Ecological Classification Standard (CMECS). The attribute values were derived from numerical classification of derivatives of multibeam echosounder (MBES) bathymetry and backscatter intensity data. Derivatives of the bathymetry data include slope and bathymetry position index. The accuracy of these characteristics of the seafloor are dependent wholly on the vertical position accuracy of the MBES bathymetry. In general, the vertical accuracy of the Simrad EM710 MBES is on the order of decimeters. In this case noise in the data did create false slope and curvature in the data that cannot be quantified but appears to be on the order of meters. Video observations of seafloor substrate were used to supervise the numerical classification of backscatter intensity data (and bathymetry derivatives) into substrate type. Accuracy of the substrate is good near video transects and diminishes as a function of distance from video ground-truth information. This accuracy cannot be quantified. The substrate attribute values should be considered geologic interpretations by the user.
+    Logical_Consistency_Report: Polygons do not overlap. Voids in the multibeam echosounder data were filled prior to numerical classification. No additional checks for consistency were performed on this data.
+    Completeness_Report: Some polygons in this data set have null attribute values when the attribute value could not be ascertained from the data.
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report: Hydrographic survey vessels outfitted with an Applanix POS-MV position and motion compensation system have a post-processed horizontal positional accuracy of about 0.1 m and roll and pitch accuracies of about 0.02 degrees (https://www.applanix.com/downloads/products/specs/posmv/POS-MV-WaveMaster-II.pdf). Accuracies of final products may be lower due to water depth and total propagated uncertainties of the mapping systems, which include sonar system, position and motion compensation system, and navigation, as well as data processing that includes sounding cleaning, gridding, and datum transformations.
+      Vertical_Positional_Accuracy:
+        Vertical_Positional_Accuracy_Report: Polygons were assigned a depth class based on bathymetry data acquired for this study. The hydrographic surveys used for this dataset absolute difference statistics of the junctions between crossing lines show that 95 percentof soundings have a deviation of 1.3 meters or less. The vertical accuracy is not defined. https://data.ngdc.noaa.gov/platforms/ocean/nos/coast/H12001-H14000/H13151/DR/H13151_DR.pdf
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Linda A. Kuhnz
+            Originator: Lisa Gilbane
+            Originator: Guy R. Cochrane
+            Originator: Charles K. Paull
+            Publication_Date: 2021
+            Title: California Deepwater Investigations and Groundtruthing (Cal DIG) I, Volume 1: Biological site characterization offshore Morro Bay
+            Publication_Information:
+              Publication_Place: online
+              Publisher: Bureau of Ocean Energy Management
+            Other_Citation_Details: Kuhnz, L.A., Gilbane, L. Cochrane, G.R., and Paull, C.K., 2021, California Deepwater Investigations and Groundtruthing (Cal DIG) I, Volume 1: Biological site characterization offshore Morro Bay: U.S. Department of the Interior, Bureau of Ocean Energy Management, Pacific OCS Region, OCS Study, BOEM 2021-037, 72 p.
+            Online_Linkage: https://espis.boem.gov/final%20reports/BOEM_2021-037.pdf
+        Type_of_Source_Media: report
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2021
+          Source_Currentness_Reference: publication year of report
+        Source_Citation_Abbreviation: Kuhnz and others 2021
+        Source_Contribution: Report describes methodology used to collect, observe seafloor physical habitats and characteristics, and annotate underwater video
+      Process_Step:
+        Process_Description: Underwater video was collected and annotated, and multibeam echosounder (MBES) data were classified into Coastal and Marine Ecological Classification Standard (CMECS) biotope classes as described in the sourced report.
+        Source_Used_Citation_Abbreviation: Kuhnz and others 2021
+        Process_Date: 20201130
+        Process_Contact:
+          Contact_Information:
+            Contact_Person_Primary:
+              Contact_Person: Linda Kuhnz
+              Contact_Organization: Monterey Bay Aquarium Research Institute (MBARI)
+            Contact_Position: Biologist
+            Contact_Address:
+              Address_Type: mailing and physical
+              Address: 7700 Sandholdt Road
+              City: Moss Landing
+              State_or_Province: CA
+              Postal_Code: 95039
+            Contact_Voice_Telephone: 831-775-1700
+            Contact_Facsimile_Telephone: 831-775-1620
+            Contact_Electronic_Mail_Address: linda@mbari.org
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: Area point
+        Point_and_Vector_Object_Count: 280,397
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.00001
+        Longitude_Resolution: 0.00001
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS80
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257222101
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Cal DIG I CMECS Shapefile
+        Entity_Type_Definition: Shapefile consisting of polygons classified into Coastal and Marine Ecological Classification Standard (CMECS) biotopes
+        Entity_Type_Definition_Source: Producer defined.
+      Attribute:
+        Attribute_Label: Geoform
+        Attribute_Definition: CMECS geoform code
+        Attribute_Definition_Source: Coastal and Marine Ecological Classification Standard (CMECS)
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Coastal and Marine Ecological Classification Standard (CMECS)
+            Codeset_Source: Federal Geographic Data Committee
+      Attribute:
+        Attribute_Label: Substrate
+        Attribute_Definition: CMECS substrate class code
+        Attribute_Definition_Source: Coastal and Marine Ecological Classification Standard (CMECS)
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Coastal and Marine Ecological Classification Standard (CMECS)
+            Codeset_Source: Federal Geographic Data Committee
+      Attribute:
+        Attribute_Label: Modifier
+        Attribute_Definition: CMECS modifier code
+        Attribute_Definition_Source: Coastal and Marine Ecological Classification Standard (CMECS)
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Coastal and Marine Ecological Classification Standard (CMECS)
+            Codeset_Source: Federal Geographic Data Committee
+      Attribute:
+        Attribute_Label: GeofrmDesc
+        Attribute_Definition: CMECS description of geoform
+        Attribute_Definition_Source: Coastal and Marine Ecological Classification Standard (CMECS)
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Coastal and Marine Ecological Classification Standard (CMECS)
+            Codeset_Source: Federal Geographic Data Committee
+      Attribute:
+        Attribute_Label: SubstrDesc
+        Attribute_Definition: CMECS description of substrate class
+        Attribute_Definition_Source: Coastal and Marine Ecological Classification Standard (CMECS)
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Coastal and Marine Ecological Classification Standard (CMECS)
+            Codeset_Source: Federal Geographic Data Committee
+      Attribute:
+        Attribute_Label: ModfrDesc
+        Attribute_Definition: description of modifiers
+        Attribute_Definition_Source: Coastal and Marine Ecological Classification Standard (CMECS)
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Coastal and Marine Ecological Classification Standard (CMECS)
+            Codeset_Source: Federal Geographic Data Committee
+      Attribute:
+        Attribute_Label: BioticGrp
+        Attribute_Definition: CMECS biotic group code; some points did not have physical habitats that correlated to a biotic group and were not assigned a value
+        Attribute_Definition_Source: Coastal and Marine Ecological Classification Standard (CMECS)
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Coastal and Marine Ecological Classification Standard (CMECS)
+            Codeset_Source: Federal Geographic Data Committee
+      Attribute:
+        Attribute_Label: BtcGrpDesc
+        Attribute_Definition: Biotic group description; some points did not have physical habitats that correlated to a biotic group and were not assigned a value
+        Attribute_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: none
+            Codeset_Source: Kuhnz and others 2021
+      Attribute:
+        Attribute_Label: BtcGrpNum
+        Attribute_Definition: Biotope assigned to video observation
+        Attribute_Definition_Source: Linda Kuhnz
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 1
+            Enumerated_Domain_Value_Definition: biotope 1
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 2
+            Enumerated_Domain_Value_Definition: biotope 2
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 3
+            Enumerated_Domain_Value_Definition: biotope 3
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 4
+            Enumerated_Domain_Value_Definition: biotope 4
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 5
+            Enumerated_Domain_Value_Definition: biotope 5
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 6
+            Enumerated_Domain_Value_Definition: biotope 6
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 7
+            Enumerated_Domain_Value_Definition: biotope 7
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 8
+            Enumerated_Domain_Value_Definition: biotope 8
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 9
+            Enumerated_Domain_Value_Definition: biotope 9
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 10
+            Enumerated_Domain_Value_Definition: biotope 10
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 11
+            Enumerated_Domain_Value_Definition: biotope 11
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 12
+            Enumerated_Domain_Value_Definition: biotope 12
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 13
+            Enumerated_Domain_Value_Definition: biotope 13
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 14
+            Enumerated_Domain_Value_Definition: biotope 14
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 15
+            Enumerated_Domain_Value_Definition: biotope 15
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 16
+            Enumerated_Domain_Value_Definition: biotope 16
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 17
+            Enumerated_Domain_Value_Definition: biotope 17
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 18
+            Enumerated_Domain_Value_Definition: biotope 18
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 0
+            Enumerated_Domain_Value_Definition: no biotope assigned
+            Enumerated_Domain_Value_Definition_Source: Kuhnz and others 2021
+      Attribute:
+        Attribute_Label: Area
+        Attribute_Definition: surface area of polygon
+        Attribute_Definition_Source: Esri
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 64.0380858924
+            Range_Domain_Maximum: 1512652524.93
+            Attribute_Units_of_Measure: Square meters
+            Attribute_Measurement_Resolution: 1e-17
+    Overview_Description:
+      Entity_and_Attribute_Overview: There are 297 unique combinations of variables resulting in 280,397 CMECS polygons in the shapefile. These polygons are grouped into 22 geoforms, 6 substrate types, 28 modifier groups, and 16 biotopes.
+      Entity_and_Attribute_Detail_Citation: Federal Geographic Data Committee, Marine and Coastal Spatial Data Subcommittee, 2012, Coastal and Marine Ecological Classification Standard: FGDC, 343 p., accessed March 10, 2021, at https://www.fgdc.gov/standards/projects/cmecs-folder/CMECS_Version_06-2012_FINAL.pdf
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey - CMGDS
+        Contact_Address:
+          Address_Type: Mailing and Physical
+          Address: 2885 Mission Street
+          City: Santa Cruz
+          State_or_Province: CA
+          Postal_Code: 95060
+        Contact_Voice_Telephone: 831-427-4747
+        Contact_Electronic_Mail_Address: pcmsc_data@usgs.gov
+    Resource_Description: These data are available in shapefile format (Cal_DIG_I_CMECS.shp and associated files) contained in a single zip file (Cal_DIG_I_CMECS.zip), accompanied by CSDGM FGDC-compliant metadata.
+    Distribution_Liability: Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: shapefile
+          Format_Version_Number: ArcGIS 10.7.1
+          Format_Specification: Esri polygon shapefile
+          Format_Information_Content: Zip file contains the polygons shapefile
+          File_Decompression_Technique: No compression applied
+          Transfer_Size: 35.8
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: https://doi.org/10.5066/P9QQZ27U
+            Access_Instructions: The CMECS shapefile data can be downloaded by going to the Network_Resource_Name link, then scrolling down to the Other Data section.
+      Fees: None.
+    Technical_Prerequisites: These data can be viewed with GIS software.
+  Metadata_Reference_Information:
+    Metadata_Date: 20220127
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey, Pacific Coastal and Marine Science Center
+          Contact_Person: PCMSC Science Data Coordinator
+        Contact_Address:
+          Address_Type: mailing and physical
+          Address: 2885 Mission Street
+          City: Santa Cruz
+          State_or_Province: CA
+          Postal_Code: 95060
+        Contact_Voice_Telephone: 831-427-4747
+        Contact_Electronic_Mail_Address: pcmsc_data@usgs.gov
+    Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998

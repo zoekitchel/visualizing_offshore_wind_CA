@@ -1,0 +1,296 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: Guy R. Cochrane
+        Originator: Peter Dartnell
+        Publication_Date: 20220108
+        Title: CMECS seafloor induration derived from multibeam echosounder data collected offshore of south-central California in support of the Bureau of Ocean Energy Management Cal DIG I, offshore alternative energy project
+        Geospatial_Data_Presentation_Form: GeoTIFF
+        Series_Information:
+          Series_Name: data release
+          Issue_Identification: DOI:10.5066/P9QQZ27U
+        Publication_Information:
+          Publication_Place: Pacific Coastal and Marine Science Center, Santa Cruz, California
+          Publisher: U.S. Geological Survey
+        Online_Linkage: https://doi.org/10.5066/P9QQZ27U
+        Larger_Work_Citation:
+          Citation_Information:
+            Originator: Guy R. Cochrane
+            Originator: Linda A. Kuhnz
+            Originator: Peter Dartnell
+            Originator: Lisa Gilbane
+            Originator: Maureen A. Walton
+            Publication_Date: 2022
+            Title: Multibeam echosounder, video observation, and derived benthic habitat data offshore of south-central California in support of the Bureau of Ocean Energy Management Cal DIG I, offshore alternative energy project
+            Series_Information:
+              Series_Name: data release
+              Issue_Identification: DOI:10.5066/P9QQZ27U
+            Publication_Information:
+              Publication_Place: Pacific Coastal and Marine Science Center, Santa Cruz, CA
+              Publisher: U.S. Geological Survey
+            Online_Linkage: https://doi.org/10.5066/P9QQZ27U/
+    Description:
+      Abstract: Seafloor induration (surface hardness) was derived from multibeam echosounder (MBES) and annotated underwater video data collected offshore of Morro Bay, California, from 2016 to 2020. MBES and underwater video data were collected in support of the U.S. Geological Survey (USGS)/Bureau of Ocean Energy Management (BOEM) California Deepwater Investigations and Groundtruthing I (Cal DIG I) project, under a collaboration with the National Oceanic and Atmospheric Administration (NOAA). Substrate observations from the underwater video were translated into Coastal and Marine Ecological Classification Standard (CMECS; Federal Geographic Data Committee, 2012) induration classes to use as training for a supervised classification of the MBES data. The induration raster is provided as a 10-meter resolution GeoTIFF.
+      Purpose: This induration raster was used as a GIS layer in the analysis and classification of the study area into CMECS habitat polygons. This project was conducted to map surficial geology and benthic habitat as part of the USGS/BOEM Interagency Agreement M17PG0021 titled California Deepwater Investigations and Ground-truthing I (Cal DIG I). These data are intended to provide regional surficial geology and benthic habitat information in an area of interest for offshore wind energy development. These data are also intended for science researchers, students, policy makers, and the public. These data can be used with geographic information systems or other software to help identify geomorphologic features and surficial lithology. These data are not intended to be used for navigation.
+      Supplemental_Information:
+        Additional information about the USGS field activities from which some of these data were derived is available online at:
+
+        https://cmgds.marine.usgs.gov/fan_info.php?fan=2018-641-FA
+        https://cmgds.marine.usgs.gov/fan_info.php?fan=2019-642-FA
+
+        These data were collected for the U.S. Geological Survey (USGS)/Bureau of Ocean Energy Management (BOEM) California Deepwater Investigations and Groundtruthing I (Cal DIG I) project (Interagency Agreement M17PG00021).
+
+        Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+
+        Although this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in Esri format, this metadata file may include some Esri-specific terminology.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 2016
+          Ending_Date: 2020
+      Currentness_Reference: ground condition at time data were collected.
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: As needed
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -122.012948
+        East_Bounding_Coordinate: -120.754961
+        North_Bounding_Coordinate: 35.901236
+        South_Bounding_Coordinate: 34.516407
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: USGS Metadata Identifier
+        Theme_Keyword: USGS:6c1f99d9-2960-4ac8-8795-18665e488dd5
+      Theme:
+        Theme_Keyword_Thesaurus: Global Change Master Directory (GCMD)
+        Theme_Keyword: Bathymetry
+        Theme_Keyword: Seafloor Topography
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: geoscientificInformation
+      Theme:
+        Theme_Keyword_Thesaurus: USGS Thesaurus
+        Theme_Keyword: sea-floor characteristics
+        Theme_Keyword: sea-floor acoustic reflectivity
+        Theme_Keyword: geospatial datasets
+        Theme_Keyword: marine geophysics
+        Theme_Keyword: multibeam sonar
+        Theme_Keyword: image mosaics
+      Theme:
+        Theme_Keyword_Thesaurus: Data Categories for Marine Planning
+        Theme_Keyword: Distributions
+        Theme_Keyword: Physical Habitats and Geomorphology
+        Theme_Keyword: Wind Energy Production
+        Theme_Keyword: Physical Habitats and Geomorphology
+        Theme_Keyword: Substrate
+      Theme:
+        Theme_Keyword_Thesaurus: Marine Realms Information Bank (MRIB) keywords
+        Theme_Keyword: seabed
+        Theme_Keyword: field observation
+      Theme:
+        Theme_Keyword_Thesaurus: none
+        Theme_Keyword: U.S. Geological Survey
+        Theme_Keyword: USGS
+        Theme_Keyword: Coastal and Marine Hazards and Resources Program
+        Theme_Keyword: CMHRP
+        Theme_Keyword: Pacific Coastal and Marine Science Center
+        Theme_Keyword: PCMSC
+        Theme_Keyword: Expanding Pacific Research and Exploration of Submerged Systems
+        Theme_Keyword: EXPRESS
+      Place:
+        Place_Keyword_Thesaurus: Geographic Names Information System (GNIS)
+        Place_Keyword: State of California
+        Place_Keyword: Morro Bay
+    Access_Constraints: None
+    Use_Constraints: USGS-authored or produced data and information are in the public domain from the U.S. Government and are freely redistributable with proper metadata and source attribution. Please recognize and acknowledge the U.S. Geological Survey and the Alaska Department of Fish and Game as the originators of the dataset and in products derived from these data. This information is not intended for navigation purposes.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey, Pacific Coastal and Marine Science Center
+          Contact_Person: PCMSC Science Data Coordinator
+        Contact_Address:
+          Address_Type: mailing and physical
+          Address: 2885 Mission Street
+          City: Santa Cruz
+          State_or_Province: CA
+          Postal_Code: 95060
+        Contact_Voice_Telephone: 831-427-4747
+        Contact_Electronic_Mail_Address: pcmsc_data@usgs.gov
+    Browse_Graphic:
+      Browse_Graphic_File_Name: Cal_DIG_I_Induration.jpeg
+      Browse_Graphic_File_Description: Quick view of Cal DIG I induration data
+      Browse_Graphic_File_Type: JPEG
+    Native_Data_Set_Environment: Caris HIPS and SIPS (ver. 9) and ArcMap (ver. 10.7) on a Windows 10 computer.
+    Cross_Reference:
+      Citation_Information:
+        Originator: Linda A. Kuhnz
+        Originator: Lisa Gilbane
+        Originator: Guy R. Cochrane
+        Originator: Charles K. Paull
+        Publication_Date: 2021
+        Title: California Deepwater Investigations and Groundtruthing (Cal DIG) I, Volume 1: Biological site characterization offshore Morro Bay
+        Other_Citation_Details: Kuhnz, L.A., Gilbane, L. Cochrane, G.R., and Paull, C.K., 2021, California Deepwater Investigations and Groundtruthing (Cal DIG) I, Volume 1: Biological site characterization offshore Morro Bay: U.S. Department of the Interior, Bureau of Ocean Energy Management, Pacific OCS Region, OCS Study, BOEM 2021-037, 72 p.
+        Online_Linkage: https://espis.boem.gov/final%20reports/BOEM_2021-037.pdf
+    Cross_Reference:
+      Citation_Information:
+        Originator: Guy R. Cochrane
+        Publication_Date: 2008
+        Title: Video-supervised classification of sonar data for mapping seafloor habitat
+        Other_Citation_Details: Cochrane, G.R., 2008, Video-supervised classification of sonar data for mapping seafloor habitat, in Reynolds, J.R., and Greene, H.G., eds., Marine habitat mapping technology for Alaska: Fairbanks, University of Alaska, Alaska Sea Grant College Program, p. 185–194.
+        Online_Linkage: https://seagrant.uaf.edu/lib/aksg/0803/mhmta-cochrane.pdf
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report: Not applicable for raster data.
+    Logical_Consistency_Report: No formal logical accuracy tests were conducted.
+    Completeness_Report: Dataset is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report: The POS MV position and motion compensation system used when collecting the MBES data has a horizontal positional accuracy of about 0.5 m with DGPS corrections and roll and pitch accuracies of about 0.02 degrees (http://www.measutronics.com/wp-content/uploads/2011/01/posmv320_specifications.pdf). Accuracies of final products may be lower due to water depth and total propagated uncertainties of the mapping systems, which include sonar system, position and motion compensation system, and navigation, as well as data processing that includes sounding cleaning, gridding, and datum transformations.
+      Vertical_Positional_Accuracy:
+        Vertical_Positional_Accuracy_Report: Not applicable to acoustic-backscatter data
+    Lineage:
+      Process_Step:
+        Process_Description: Multibeam echosounder (MBES) data were collected offshore of Morro Bay, California, from 2016 to 2019. The data were collected during five separate multi-agency surveys using Simrad 700 series hull-mounted multibeam echosounders. For details, see metadata for backscatter and bathymetry data, also available in this data release.
+        Process_Date: 2020
+      Process_Step:
+        Process_Description: Substrate observations were derived from underwater video collected by the Monterey Bay Aquarium Research Institute (MBARI) using remotely operated vehicles (ROVs) offshore of Morro Bay, California. A majority of the data were acquired during three separate surveys in 2019. Additional observations from underwater video data collected by the Ocean Exploration Trust's E/V Nautilus in 2020 were also incorporated. See Kuhnz and others, 2021, for complete details.
+        Process_Date: 20201130
+        Process_Contact:
+          Contact_Information:
+            Contact_Person_Primary:
+              Contact_Person: Linda Kuhnz
+              Contact_Organization: Monterey Bay Aquarium Research Institute (MBARI)
+            Contact_Position: Biologist
+            Contact_Address:
+              Address_Type: mailing and physical
+              Address: 7700 Sandholdt Road
+              City: Moss Landing
+              State_or_Province: CA
+              Postal_Code: 95039
+            Contact_Voice_Telephone: 831-775-1700
+            Contact_Facsimile_Telephone: 831-775-1620
+            Contact_Electronic_Mail_Address: linda@mbari.org
+      Process_Step:
+        Process_Description: Multibeam echosounder (MBES) data were processed with HIPS and SIPS software into GeoTIFF bathymetry and backscatter-intensity rasters. The individual survey rasters were imported into an ArcGIS Geographic Information Systems (GIS). Bathymetry position index (BPI) and slope rasters were derived from MBES bathymetry data. The three variable rasters were then classified in ArcGIS 10.7 using the Maximum Likelihood Classification tools. Observations of substrate from the seafloor video were used to supervise the classification as described in Cochrane (2008). The induration grid was exported as a GeoTIFF file in UTM zone 10, NAD83 coordinates.
+        Process_Date: 2020
+      Process_Step:
+        Process_Description: Minor edit in metadata to correct keyword. No data were changed. scochran@usgs.gov
+        Process_Date: 20220726
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Raster
+    Raster_Object_Information:
+      Raster_Object_Type: Grid Cell
+      Row_Count: 15183
+      Column_Count: 11207
+      Vertical_Count: 1
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Planar:
+        Grid_Coordinate_System:
+          Grid_Coordinate_System_Name: Universal Transverse Mercator
+          Universal_Transverse_Mercator:
+            UTM_Zone_Number: 10
+            Transverse_Mercator:
+              Scale_Factor_at_Central_Meridian: 0.9996
+              Longitude_of_Central_Meridian: -123.00000
+              Latitude_of_Projection_Origin: 0.00000
+              False_Easting: 500000.0
+              False_Northing: 0.00
+        Planar_Coordinate_Information:
+          Planar_Coordinate_Encoding_Method: coordinate pair
+          Coordinate_Representation:
+            Abscissa_Resolution: 10.0
+            Ordinate_Resolution: 10.0
+          Planar_Distance_Units: Meters
+      Geodetic_Model:
+        Horizontal_Datum_Name: NAD83
+        Ellipsoid_Name: NAD83
+        Semi-major_Axis: 6378137.00
+        Denominator_of_Flattening_Ratio: 298.257222101
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: value
+        Entity_Type_Definition: backscatter intensity as a digital value
+        Entity_Type_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: Value
+        Attribute_Definition: CMECS seafloor induration class
+        Attribute_Definition_Source: Coastal and Marine Ecological Classification Standard, CMECS
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 3
+            Enumerated_Domain_Value_Definition: soft substrate
+            Enumerated_Domain_Value_Definition_Source: Coastal and Marine Ecological Classification Standard, CMECS
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 2
+            Enumerated_Domain_Value_Definition: mixed substrate
+            Enumerated_Domain_Value_Definition_Source: Coastal and Marine Ecological Classification Standard, CMECS
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 1
+            Enumerated_Domain_Value_Definition: hard substrate
+            Enumerated_Domain_Value_Definition_Source: Coastal and Marine Ecological Classification Standard, CMECS
+      Attribute:
+        Attribute_Label: count
+        Attribute_Definition: number of pixels assigned to class
+        Attribute_Definition_Source: none
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2125777
+            Range_Domain_Maximum: 78044412
+            Attribute_Units_of_Measure: none
+    Overview_Description:
+      Entity_and_Attribute_Overview: The complete 10-m resolution 2015 Cal DIG I seafloor induration grid is a GeoTIFF image with integer values representing CMECS induration classes: 1 for soft bottom, 2 for mixed bottom, and 3 for hard bottom.
+      Entity_and_Attribute_Detail_Citation: Federal Geographic Data Committee, Marine and Coastal Spatial Data Subcommittee, 2012, Coastal and Marine Ecological Classification Standard: FGDC, 343 p., accessed March 10, 2021, at https://www.fgdc.gov/standards/projects/cmecs-folder/CMECS_Version_06-2012_FINAL.pdf
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey - CMGDS
+        Contact_Address:
+          Address_Type: Mailing and Physical
+          Address: 2885 Mission Street
+          City: Santa Cruz
+          State_or_Province: CA
+          Postal_Code: 95060
+        Contact_Voice_Telephone: 831-427-4747
+        Contact_Electronic_Mail_Address: pcmsc_data@usgs.gov
+    Resource_Description: These data are available in GeoTIFF format, along with a tif world file (.tfw) and CSDGM FGDC-compliant metadata.
+    Distribution_Liability: Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: GeoTIFF
+          Format_Version_Number: ArcMap (version 10.7.1)
+          Format_Information_Content: These data are available in GeoTIFF format, along with a tif world file (.tfw) and CSDGM FGDC-compliant metadata.
+          File_Decompression_Technique: Windows 10 Zip
+          Transfer_Size: 1.3
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: https://doi.org/10.5066/P9QQZ27U/
+            Access_Instructions: The seafloor inundation raster data can be downloaded by going to the Network_Resource_Name link, then scrolling down to the Other Data section.
+      Fees: None.
+    Technical_Prerequisites: The downloadable data file has been compressed with the "zip" command and can be unzipped with Winzip (or other tool) on Windows systems. To utilize these data, the user must have software capable of uncompressing the WinZip file and importing and viewing a GeoTIFF file.
+  Metadata_Reference_Information:
+    Metadata_Date: 20220727
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey, Pacific Coastal and Marine Science Center
+          Contact_Person: PCMSC Science Data Coordinator
+        Contact_Address:
+          Address_Type: mailing and physical
+          Address: 2885 Mission Street
+          City: Santa Cruz
+          State_or_Province: CA
+          Postal_Code: 95060
+        Contact_Voice_Telephone: 831-427-4747
+        Contact_Electronic_Mail_Address: pcmsc_data@usgs.gov
+    Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
